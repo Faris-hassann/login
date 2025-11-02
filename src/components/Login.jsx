@@ -392,7 +392,7 @@ function Login() {
             src="/logo.png"
             alt="Logo"
             className="max-w-full h-auto"
-            style={{ maxWidth: '413px' }}
+            style={{ maxWidth: '480px' }}
           />
         </div>
       </div>
